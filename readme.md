@@ -3,7 +3,7 @@
 One-line description of the project.
 
 ## Features
-- Short, focused feature list
+- Short,focused feature list
 - Example: CLI-ready, cross-platform, minimal dependencies
 
 ## Requirements
@@ -32,10 +32,3 @@ run({ input: 'example' })
     .catch(err => console.error(err));
 ```
 
-## Contributing
-1. Fork the repo
-2. Create a feature branch
-3. Open a pull request
-
-## License
-MIT
